@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abudygold
 - 👀 I’m interested in Frontend Developer
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Angular Package
 - 📫 How to reach me abudy.gold@yahoo.com
 
