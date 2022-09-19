@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @abudygold
-- 👀 I’m interested in Frontend Developer
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Angular Package
-- 📫 How to reach me abudy.gold@yahoo.com
+<!-- <p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p> -->
 
-<!---
-abudygold/abudygold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Hello friends 🖐️
+
+-   :computer: I am working as **Frontend Developer**
+-   :monocle_face: Interested in everything **Javascript**
+-   :seedling: Currently learning **Flutter**
+-   :heart: Open Source Software
