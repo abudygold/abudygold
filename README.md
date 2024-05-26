@@ -7,7 +7,7 @@
 
 -   :computer: I am working as **Frontend Developer**
 -   :monocle_face: Interested in everything **Typescript/Javascript**
--   :seedling: My Tech Stack **Angular / React / React Native / Vue / Svelte / Flutter**
+-   :seedling: My tech stack **Angular / React / React Native / Vue / Svelte / Flutter**
 -   :seedling: Currently learning **Flutter**
 -   :heart: Open Source Software
 
