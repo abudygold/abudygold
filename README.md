@@ -6,7 +6,8 @@
 # Hello friends 🖐️
 
 -   :computer: I am working as **Frontend Developer**
--   :monocle_face: Interested in everything **Javascript**
+-   :monocle_face: Interested in everything **Typescript/Javascript**
+-   :seedling: My Tech Stack **Angular / React / Svelte / Flutter**
 -   :seedling: Currently learning **Flutter**
 -   :heart: Open Source Software
 
